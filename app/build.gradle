@@ -37,7 +37,7 @@ android {
     }
 }
 
-//d
+//d2
 dependencies {
 
     implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
