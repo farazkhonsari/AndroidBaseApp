@@ -14,8 +14,7 @@ class NotificationsFragment : Fragment() {
 
     private val notificationsViewModel: NotificationsViewModel by viewModels()
     private var _binding: FragmentNotificationsBinding? = null
-    // This property is only valid between onCreateView and
-    // onDestroyView.
+
     private val binding get() = _binding!!
 
     override fun onCreateView(
